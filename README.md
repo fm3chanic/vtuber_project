@@ -1,8 +1,8 @@
-#The Vtuber Theming Project
+# The Vtuber Theming Project
 
 During this project I will create color schemes based on Vtubers (form of content creators) and apply them to the open source editor Notepad++ and Windows Terminal emulator.
 
-##Repositories
+## Repositories
 
 Scheme Files: https://github.com/fm3chanic/color_schemes
 
@@ -10,7 +10,7 @@ Notepad++ Themes: https://github.com/fm3chanic/npp_themes
 
 Windows Terminal Themes: https://github.com/fm3chanic/windows_terminal_themes
 
-##Planning & Release Schedule
+## Planning & Release Schedule
 
 My plan is to follow a biweekly release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so always before I publish videos about them.
 
@@ -18,7 +18,7 @@ The goal is to cover all creators mentioned on the list in no specific order. Th
 
 I will only cover Vtubers creating content in English or German.
 
-##Background
+## Background
 
 The place where I am working has only a limited pool of supported applications and very strict ruling of introducing new ones when other applications basically cover the functionality of the application you'd like to add. To make things worse we have to use Windows.
 
@@ -28,7 +28,7 @@ I don't know how you feel, but I can't use the same theme for months, at a certa
 
 When a theme based on an anime character is possible, then a theme based on a Vtuber would also be possible! So why not creating a theme based on a Vtuber? But which one? At his point I had already more than 10 content creators in mind, so instead of trying to choose one of them I made a project out of it.
 
-##List of Vtubers
+## List of Vtubers
 
 This list contains all content creators I want to cover or which have been covered.
 
