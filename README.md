@@ -46,7 +46,7 @@ This list contains all content creators I want to cover or which have been cover
 |12|Nayami|Nayami|@NayamiPeachfox|German|FALSE|
 |13|EveryLunaEver|EveryLunaEver|@EveryLunaEver|German|FALSE|
 |14|Saruei|Saruei|@Saruei|English|FALSE|
-|15|Numi|nihmune|Akuma Nihmune Ch|English|FALSE|
+|15|Numi|nihmune|@AkumaNihmune|English|FALSE|
 |16|Lucy|lucypyre|@LucyPyre|English|FALSE|
 |17|Cerber|cerbervt|@cerberVT|English|FALSE|
 |18|Mini|minikomew|@MinikoMew|English|FALSE|
@@ -60,7 +60,7 @@ This list contains all content creators I want to cover or which have been cover
 |26|Honey|honeythekawaiibunny|@Honeythekawaiibunny|English|FALSE|
 |27|Shoomimi|shoomimi|@ShoomimiVODs|English|FALSE|
 |28|Toma|toma|@sliceoftoma|English|FALSE|
-|29|Rose|rosedoodle|rosedoodle|English|FALSE|
+|29|Rose|rosedoodle|@rosedoodle|English|FALSE|
 |30|Anny|anny|@annytf|English|FALSE|
 |31|MichiMochievee|michimochievee|@MichiMochievee|English|FALSE|
 |32|Chibi|chibidoki|@chibidoki|English|FALSE|
