@@ -1,29 +1,34 @@
 # The Vtuber Theming Project
 
-During this project I will create color schemes based on Vtubers (form of content creators) and apply them to the open source editor Notepad++ and Windows Terminal emulator.
+During this project I will create color schemes based on Vtubers (form of content creators) and built themes for plain texteditors and terminal emulators out of them.<br>
+The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 
-## Repositories
+## Supported Ports & Repositories
 
-Scheme Files: https://github.com/fm3chanic/color_schemes
+|Type|Repo|Status|
+|:---|:---|:---:|
+|Reference Material|[Color Scheme Files](https://github.com/fm3chanic/color_schemes)|n/a|
+|Port|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
+|Port|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
+|Port|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
+|Port|Konsole|planned|
+|Port|XFCE4-Mousepad|planned|
+|Port|XFCE4-Terminal|planned|
 
-Notepad++ Themes: https://github.com/fm3chanic/npp_themes
-
-Windows Terminal Themes: https://github.com/fm3chanic/windows_terminal_themes
+The main development of the themes is for Notepad++ and Windows Terminal, which won't change during this project. Yet I am currently extending the supported applications.<br>
+Including an application to the supported ports means building all of my themes which exist at that point in time and releasing also the new themes for this application.<br>
+If I can't automate this process it is very likely that I won't support the application for this project. My approach is all or nothing here.
 
 ## Planning & Release Schedule
 
-My plan is to follow a biweekly release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so always before I publish videos about them.
-
+My plan is to follow a biweekly release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so always before I publish videos about them.<br>
 The goal is to cover all creators mentioned on the list in no specific order. The list is extended based on the comments I receive on my videos. I'll stop extending when I feel it makes sense to finish with this project.
 
 ## Background
 
-The place where I am working has only a limited pool of supported applications and very strict ruling of introducing new ones when other applications basically cover the functionality of the application you'd like to add. To make things worse we have to use Windows.
-
-I haven't figured out yet how to edit code just by willpower, so unfortunately I need a texteditor and ideally one that is lightweight. So VSCode which technically would be supported isn't an option. I was left with an veeeery old version of Emacs or Notepad++ which receives updates regularly. I went with Notepad++.
-
-I don't know how you feel, but I can't use the same theme for months, at a certain point I need a change. The number of maintained themes for Notepad++ is unfortunately not that high. So I decided one day, I am building my own theme. The result was a theme based on an anime character (Sakura Haruno from Naruto). This was basically the day where the idea for this project was born.
-
+The place where I am working has only a limited pool of supported applications and very strict ruling of introducing new ones when other applications basically cover the functionality of the application you'd like to add. To make things worse we have to use Windows.<br>
+I haven't figured out yet how to edit code just by willpower, so unfortunately I need a texteditor and ideally one that is lightweight. So VSCode which technically would be supported isn't an option. I was left with an veeeery old version of Emacs or Notepad++ which receives updates regularly. I went with Notepad++.<br>
+I don't know how you feel, but I can't use the same theme for months, at a certain point I need a change. The number of maintained themes for Notepad++ is unfortunately not that high. So I decided one day, I am building my own theme. The result was a theme based on an anime character (Sakura Haruno from Naruto). This was basically the day where the idea for this project was born.<br>
 When a theme based on an anime character is possible, then a theme based on a Vtuber would also be possible! So why not creating a theme based on a Vtuber? But which one? At his point I had already more than 10 content creators in mind, so instead of trying to choose one of them I made a project out of it.
 
 ## List of Vtubers
