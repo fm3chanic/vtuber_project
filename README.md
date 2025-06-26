@@ -11,7 +11,7 @@ The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 |Port|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
 |Port|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
 |Port|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
-|Port|Konsole|planned|
+|Port|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
 |Port|XFCE4-Mousepad|planned|
 |Port|XFCE4-Terminal|planned|
 
