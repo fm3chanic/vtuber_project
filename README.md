@@ -12,7 +12,7 @@ The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 |Port|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
 |Port|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
 |Port|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
-|Port|XFCE4-Terminal|planned|
+|Port|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
 
 The main development of the themes is for Notepad++ and Windows Terminal, which won't change during this project. Yet I am currently extending the supported applications.<br>
 Including an application to the supported ports means building all of my themes which exist at that point in time and releasing also the new themes for this application.<br>
