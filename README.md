@@ -74,4 +74,4 @@ This list contains all content creators I want to cover or which have been cover
 |36|SquChan|SquChan|@SquChanTwitchVODs|English|FALSE|
 |37|Cypress Ch.|vtubercypress|@VtuberCypress|English|FALSE|
 |38|Mari|mariyume|@MariYumeVT|English|FALSE|
-|39|saba||@SamekoSaba|English|FALSE|
+|39|saba|SamekoSaba_vt|@SamekoSaba|English|FALSE|
