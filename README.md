@@ -3,16 +3,16 @@
 During this project I will create color schemes based on Vtubers (form of content creators) and built themes for plain texteditors and terminal emulators out of them.<br>
 The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 
-## Supported Ports & Repositories
+## Supported Applications & Repositories
 
 |Type|Repo|Status|
 |:---|:---|:---:|
 |Reference Material|[Color Scheme Files](https://github.com/fm3chanic/color_schemes)|n/a|
-|Port|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
-|Port|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
-|Port|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
-|Port|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
-|Port|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
+|App|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
+|App|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
+|App|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
+|App|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
+|App|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
 
 The main development of the themes is for Notepad++ and Windows Terminal, which won't change during this project. Yet I am currently extending the supported applications.<br>
 Including an application to the supported ports means building all of my themes which exist at that point in time and releasing also the new themes for this application.<br>
@@ -72,3 +72,6 @@ This list contains all content creators I want to cover or which have been cover
 |34|Spite|Spite|@SpiteVtuber|English|FALSE|
 |35|Buff|Buffpup|@Buffpup|English|FALSE|
 |36|SquChan|SquChan|@SquChanTwitchVODs|English|FALSE|
+|37|Cypress Ch.|vtubercypress|@VtuberCypress|English|FALSE|
+|38|Mari|mariyume|@MariYumeVT|English|FALSE|
+|39|saba||@SamekoSaba|English|FALSE|
