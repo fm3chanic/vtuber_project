@@ -3,7 +3,7 @@
 During this project I will create color schemes based on Vtubers (form of content creators) and built themes for plain texteditors and terminal emulators out of them.<br>
 The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 
-**[Galery](/docs/galery.md)**<br>
+**[Galery](/doc/galery.md)**<br>
 **[Supported Applications](/doc/applications.md)**<br>
 **[Planned / Covered Vtubers](/doc/vtubers.md)**<br><br>
 **[HTML Reference Sheets](https://github.com/fm3chanic/color_schemes)**
