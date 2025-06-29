@@ -6,7 +6,7 @@ The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 **[Galery](/doc/galery.md)**<br>
 **[Supported Applications](/doc/applications.md)**<br>
 **[Planned / Covered Vtubers](/doc/vtubers.md)**<br><br>
-**[HTML Reference Sheets](https://github.com/fm3chanic/color_schemes)**
+**[HTML Reference Sheets & Galery Non-Project Themes](https://github.com/fm3chanic/color_schemes)**
 
 ## Planning & Release Schedule
 
