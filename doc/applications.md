@@ -8,14 +8,13 @@ The main development of the themes is for Notepad++ and Windows Terminal, which 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
 
 
-|Type|Repo|Status|
-|:---|:---|:---:|
-|Reference Material|[Color Scheme Files](https://github.com/fm3chanic/color_schemes)|n/a|
-|App|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
-|App|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
-|App|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
-|App|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
-|App|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
+|Repo|Status|
+|:---|:---:|
+|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
+|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
+|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
+|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
+|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
 
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
