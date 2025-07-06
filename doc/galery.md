@@ -16,6 +16,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |:---|:---:|
 |Vedal987|[Link](#vedal987)|
 |Shylily|[Link](#shylily)|
+|Asche|[Link](#asche)|
 
 
 ### Vedal987
@@ -47,5 +48,11 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Shylily - Light -](/assets/pictures/shylily-light.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
+### Asche
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Asche - Dark -]((/assets/pictures/asche-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
