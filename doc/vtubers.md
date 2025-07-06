@@ -16,7 +16,7 @@ This list contains all content creators I want to cover or which have been cover
 |6|Jinja|[jinja](https://www.twitch.tv/jinja)|[@JinjaOwO](https://www.youtube.com/@JinjaOwO)|German|*FALSE*|
 |7|ironmouse|[ironmouse](https://www.twitch.tv/ironmouse)|[@IronMouseParty](https://www.youtube.com/@IronMouseParty)|English|*FALSE*|
 |8|Lunywoo|[lunywoo](https://www.twitch.tv/lunywoo)|[@Lunywoo](https://www.youtube.com/@Lunywoo)|German|*FALSE*|
-|9|Asche|[asche](https://www.twitch.tv/asche)|[@aschekunst](https://www.youtube.com/@aschekunst)|German|*FALSE*|
+|9|Asche|[asche](https://www.twitch.tv/asche)|[@aschekunst](https://www.youtube.com/@aschekunst)|German|**TRUE**|
 |10|Finstey|[finstey](https://www.twitch.tv/finstey)|[@finstey](https://www.youtube.com/@finstey)|German|*FALSE*|
 |11|Laphipi|[laphipi](https://www.twitch.tv/laphipi)|[@Laphipi](https://www.youtube.com/@Laphipi)|English|*FALSE*|
 |12|Nayami|[Nayami](https://www.twitch.tv/Nayami)|[@NayamiPeachfox](https://www.youtube.com/@NayamiPeachfox)|German|*FALSE*|
