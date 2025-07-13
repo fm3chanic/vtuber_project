@@ -46,7 +46,7 @@ This list contains all content creators I want to cover or which have been cover
 |36|SquChan|[SquChan](https://www.twitch.tv/SquChan)|[@SquChanTwitchVODs](https://www.youtube.com/@SquChanTwitchVODs)|English|*FALSE*|
 |37|Cypress Ch.|[vtubercypress](https://www.twitch.tv/vtubercypress)|[@VtuberCypress](https://www.youtube.com/@VtuberCypress)|English|*FALSE*|
 |38|Mari|[mariyume](https://www.twitch.tv/mariyume)|[@MariYumeVT](https://www.youtube.com/@MariYumeVT)|English|*FALSE*|
-|39|saba|[SamekoSaba_vt](https://www.twitch.tv/SamekoSaba_vt)|[@SamekoSaba](https://www.youtube.com/@SamekoSaba)|English|*FALSE*|
+|39|Saba|[SamekoSaba_vt](https://www.twitch.tv/SamekoSaba_vt)|[@SamekoSaba](https://www.youtube.com/@SamekoSaba)|English|**TRUE**|
 |40|Porcelainmaid|[PorcelainMaid](https://www.twitch.tv/porcelainmaid)|[@PorcelainMaid](https://www.youtube.com/@PorcelainMaid)|English|*FALSE*|
 |41|Dokibird|[dokibird](https://www.twitch.tv/dokibird)|[@Dokibird](https://www.youtube.com/@Dokibird)|English|*FALSE*|
 |42|Nanoless|[Nanoless](https://www.twitch.tv/nanoless)|[@Nanoless](https://www.youtube.com/@Nanoless)|English|*FALSE*|
