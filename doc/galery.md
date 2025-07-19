@@ -69,7 +69,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 *Light*<br>
 ![Nayami - Light](/assets/pictures/nayami-light.png)<br><br>
 *Medium*<br>
-![Nayami - Medium](/assets/pictures/nayami-medium.png)<br><br>
+![Nayami - Dark](/assets/pictures/nayami-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
