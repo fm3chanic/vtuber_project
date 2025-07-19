@@ -68,7 +68,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Nayami - Light](/assets/pictures/nayami-light.png)<br><br>
-*Medium*<br>
+*Dark*<br>
 ![Nayami - Dark](/assets/pictures/nayami-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
