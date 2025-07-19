@@ -18,6 +18,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Shylily|[Link](#shylily)|
 |Asche|[Link](#asche)|
 |Saba|[Link](#saba)|
+|Nayami|[Link](#nayami)|
 
 ### Vedal987
 
@@ -61,6 +62,14 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![SamekoSaba Light](/assets/pictures/sameko-saba-light.png)<br><br>
 *Medium*<br>
 ![SamekoSaba Medium](/assets/pictures/sameko-saba-medium.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Nayami
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Nayami - Light](/assets/pictures/nayami-light.png)<br><br>
+*Medium*<br>
+![Nayami - Medium](/assets/pictures/nayami-medium.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
