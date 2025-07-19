@@ -53,6 +53,5 @@ This list contains all content creators I want to cover or which have been cover
 |43|Zentreya|[Zentreya](https://www.twitch.tv/zentreya)|[@Zentreya](https://www.youtube.com/@Zentreya)|English|*FALSE*|
 |44|Fuwamoco||[@FUWAMOCOch](https://www.youtube.com/@FUWAMOCOch)|English|*FALSE*|
 |45|Gigi Murin||[@holoen_gigimurin](https://www.youtube.com/@holoen_gigimurin)|English|*FALSE*|
-|46|Zentreya|[zentreya](https://www.twitch.tv/zentreya)|[@Zentreya](https://www.youtube.com/@Zentreya)|English|*FALSE*|
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
