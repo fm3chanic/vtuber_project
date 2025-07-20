@@ -41,7 +41,7 @@ This list contains all content creators I want to cover or which have been cover
 |31|MichiMochievee|[michimochievee](https://www.twitch.tv/michimochievee)|[@MichiMochievee](https://www.youtube.com/@MichiMochievee)|English|*FALSE*|
 |32|Chibi|[chibidoki](https://www.twitch.tv/chibidoki)|[@chibidoki](https://www.youtube.com/@chibidoki)|English|*FALSE*|
 |33|Deme|[deme](https://www.twitch.tv/deme)|[@demeVT](https://www.youtube.com/@demeVT)|English|*FALSE*|
-|34|Spite|[Spite](https://www.twitch.tv/Spite)|[@SpiteVtuber](https://www.youtube.com/@SpiteVtuber)|English|*FALSE*|
+|34|Spite|[Spite](https://www.twitch.tv/Spite)|[@SpiteVtuber](https://www.youtube.com/@SpiteVtuber)|English|**TRUE**|
 |35|Buff|[Buffpup](https://www.twitch.tv/Buffpup)|[@Buffpup](https://www.youtube.com/@Buffpup)|English|*FALSE*|
 |36|SquChan|[SquChan](https://www.twitch.tv/SquChan)|[@SquChanTwitchVODs](https://www.youtube.com/@SquChanTwitchVODs)|English|*FALSE*|
 |37|Cypress Ch.|[vtubercypress](https://www.twitch.tv/vtubercypress)|[@VtuberCypress](https://www.youtube.com/@VtuberCypress)|English|*FALSE*|

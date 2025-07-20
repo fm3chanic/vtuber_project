@@ -20,6 +20,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Saba|[Link](#saba)|
 |Nayami|[Link](#nayami)|
 |Camila|[Link](#camila)|
+|Spite|[Link](#spite)|
 
 ### Vedal987
 
@@ -58,6 +59,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 
 ### Saba
+
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![SamekoSaba Light](/assets/pictures/sameko-saba-light.png)<br><br>
@@ -66,6 +68,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 
 ### Nayami
+
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Nayami - Light](/assets/pictures/nayami-light.png)<br><br>
@@ -74,11 +77,21 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 
 ### Camila
+
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Camila - Light](/assets/pictures/camila-light.png)<br><br>
 *Dark*<br>
 ![Camila - Dark](/assets/pictures/camila-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Spite
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Spite - Dark](/assets/pictures/spite-dark.png)<br><br>
+*Dark - Bubblegum Version -*<br>
+![Spite - Dark (Bubblegum)](/assets/pictures/spite-bubblegum-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
