@@ -29,7 +29,7 @@ This list contains all content creators I want to cover or which have been cover
 |19|Bao|[bao](https://www.twitch.tv/bao)|[@baovtuber](https://www.youtube.com/@baovtuber)|English|*FALSE*|
 |20|Milk|[cweamcat](https://www.twitch.tv/cweamcat)|[@CweamcatCh](https://www.youtube.com/@CweamcatCh)|English|*FALSE*|
 |21|Megalodon|[megalodonvt](https://www.twitch.tv/megalodonvt)|[@megalodonVT](https://www.youtube.com/@megalodonVT)|English|*FALSE*|
-|22|Camila|[camila](https://www.twitch.tv/camila)|[@cumilq](https://www.youtube.com/@cumilq)|English|*FALSE*|
+|22|Camila|[camila](https://www.twitch.tv/camila)|[@cumilq](https://www.youtube.com/@cumilq)|English|**TRUE**|
 |23|ChaCha|[chachayourvmom](https://www.twitch.tv/chachayourvmom)|[@ChaChaYourVmom](https://www.youtube.com/@ChaChaYourVmom)|English|*FALSE*|
 |24|Koko|[kokonuts](https://www.twitch.tv/kokonuts)|[@kokonutsvt](https://www.youtube.com/@kokonutsvt)|English|*FALSE*|
 |25|Ellie|[ellie_minibot](https://www.twitch.tv/ellie_minibot)|[@Ellie_Minibot](https://www.youtube.com/@Ellie_Minibot)|English|*FALSE*|

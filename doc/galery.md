@@ -19,6 +19,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Asche|[Link](#asche)|
 |Saba|[Link](#saba)|
 |Nayami|[Link](#nayami)|
+|Camila|[Link](#camila)|
 
 ### Vedal987
 
@@ -70,6 +71,14 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Nayami - Light](/assets/pictures/nayami-light.png)<br><br>
 *Dark*<br>
 ![Nayami - Dark](/assets/pictures/nayami-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Camila
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Camila - Light](/assets/pictures/camila-light.png)<br><br>
+*Dark*<br>
+![Camila - Dark](/assets/pictures/camila-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
