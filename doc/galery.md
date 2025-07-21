@@ -56,7 +56,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Asche - Dark](/assets/pictures/asche-dark.png)<br><br>
-*Dark*<br>
+*Dark - Banana Version*<br>
 ![Asche - Dark (Banana)](/assets/pictures/asche-banana-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
@@ -92,7 +92,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Spite - Dark](/assets/pictures/spite-dark.png)<br><br>
-*Dark - Bubblegum Version -*<br>
+*Dark - Bubblegum Version*<br>
 ![Spite - Dark (Bubblegum)](/assets/pictures/spite-bubblegum-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
