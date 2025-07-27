@@ -21,6 +21,9 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Nayami|[Link](#nayami)|
 |Camila|[Link](#camila)|
 |Spite|[Link](#spite)|
+|Cypress|[Link](#cypress)|
+|Aquwa|[Link](#aquwa)|
+|Lunywoo|[Link](#lunywoo)|
 
 ### Vedal987
 
@@ -94,6 +97,33 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Spite - Dark](/assets/pictures/spite-dark.png)<br><br>
 *Dark - Bubblegum Version*<br>
 ![Spite - Dark (Bubblegum)](/assets/pictures/spite-bubblegum-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Cypress
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Cypress - Light](/assets/pictures/cypress-light.png)<br><br>
+*Dark*<br>
+![Cypress - Dark](/assets/pictures/cypress-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Aquwa
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Aquwa - Light](/assets/pictures/aquwa-light.png)<br><br>
+*Dark*<br>
+![Aquwa - Dark](/assets/pictures/aquwa-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Lunywoo
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Lunywoo - Light](/assets/pictures/lunywoo-light.png)<br><br>
+*Dark*<br>
+![Lunywoo - Dark](/assets/pictures/lunywoo-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**

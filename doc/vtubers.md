@@ -12,10 +12,10 @@ This list contains all content creators I want to cover or which have been cover
 |2|Shylily|[Shylily](https://www.twitch.tv/Shylily)|[@Shylily](https://www.youtube.com/@Shylily)|English|**TRUE**|
 |3|Filian|[filian](https://www.twitch.tv/filian)|[@filianIsLost](https://www.youtube.com/@filianIsLost)|English|*FALSE*|
 |4|Layna|[LaynaLazar](https://www.twitch.tv/LaynaLazar)|[@LaynaLazar](https://www.youtube.com/@LaynaLazar)|English|*FALSE*|
-|5|Aquwa|[aquwa](https://www.twitch.tv/aquwa)|[@Aquwa_VT](https://www.youtube.com/@Aquwa_VT)|English|*FALSE*|
+|5|Aquwa|[aquwa](https://www.twitch.tv/aquwa)|[@Aquwa_VT](https://www.youtube.com/@Aquwa_VT)|English|**TRUE**|
 |6|Jinja|[jinja](https://www.twitch.tv/jinja)|[@JinjaOwO](https://www.youtube.com/@JinjaOwO)|German|*FALSE*|
 |7|ironmouse|[ironmouse](https://www.twitch.tv/ironmouse)|[@IronMouseParty](https://www.youtube.com/@IronMouseParty)|English|*FALSE*|
-|8|Lunywoo|[lunywoo](https://www.twitch.tv/lunywoo)|[@Lunywoo](https://www.youtube.com/@Lunywoo)|German|*FALSE*|
+|8|Lunywoo|[lunywoo](https://www.twitch.tv/lunywoo)|[@Lunywoo](https://www.youtube.com/@Lunywoo)|German|**TRUE**|
 |9|Asche|[asche](https://www.twitch.tv/asche)|[@aschekunst](https://www.youtube.com/@aschekunst)|German|**TRUE**|
 |10|Finstey|[finstey](https://www.twitch.tv/finstey)|[@finstey](https://www.youtube.com/@finstey)|German|*FALSE*|
 |11|Laphipi|[laphipi](https://www.twitch.tv/laphipi)|[@Laphipi](https://www.youtube.com/@Laphipi)|English|*FALSE*|
@@ -44,7 +44,7 @@ This list contains all content creators I want to cover or which have been cover
 |34|Spite|[Spite](https://www.twitch.tv/Spite)|[@SpiteVtuber](https://www.youtube.com/@SpiteVtuber)|English|**TRUE**|
 |35|Buff|[Buffpup](https://www.twitch.tv/Buffpup)|[@Buffpup](https://www.youtube.com/@Buffpup)|English|*FALSE*|
 |36|SquChan|[SquChan](https://www.twitch.tv/SquChan)|[@SquChanTwitchVODs](https://www.youtube.com/@SquChanTwitchVODs)|English|*FALSE*|
-|37|Cypress Ch.|[vtubercypress](https://www.twitch.tv/vtubercypress)|[@VtuberCypress](https://www.youtube.com/@VtuberCypress)|English|*FALSE*|
+|37|Cypress Ch.|[vtubercypress](https://www.twitch.tv/vtubercypress)|[@VtuberCypress](https://www.youtube.com/@VtuberCypress)|English|**TRUE**|
 |38|Mari|[mariyume](https://www.twitch.tv/mariyume)|[@MariYumeVT](https://www.youtube.com/@MariYumeVT)|English|*FALSE*|
 |39|Saba|[SamekoSaba_vt](https://www.twitch.tv/SamekoSaba_vt)|[@SamekoSaba](https://www.youtube.com/@SamekoSaba)|English|**TRUE**|
 |40|Porcelainmaid|[PorcelainMaid](https://www.twitch.tv/porcelainmaid)|[@PorcelainMaid](https://www.youtube.com/@PorcelainMaid)|English|*FALSE*|
