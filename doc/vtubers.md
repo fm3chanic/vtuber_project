@@ -32,7 +32,7 @@ This list contains all content creators I want to cover or which have been cover
 |22|Camila|[camila](https://www.twitch.tv/camila)|[@cumilq](https://www.youtube.com/@cumilq)|English|**TRUE**|
 |23|ChaCha|[chachayourvmom](https://www.twitch.tv/chachayourvmom)|[@ChaChaYourVmom](https://www.youtube.com/@ChaChaYourVmom)|English|*FALSE*|
 |24|Koko|[kokonuts](https://www.twitch.tv/kokonuts)|[@kokonutsvt](https://www.youtube.com/@kokonutsvt)|English|*FALSE*|
-|25|Ellie|[ellie_minibot](https://www.twitch.tv/ellie_minibot)|[@Ellie_Minibot](https://www.youtube.com/@Ellie_Minibot)|English|*FALSE*|
+|25|Ellie|[ellie_minibot](https://www.twitch.tv/ellie_minibot)|[@Ellie_Minibot](https://www.youtube.com/@Ellie_Minibot)|English|**TRUE**|
 |26|Honey|[honeythekawaiibunny](https://www.twitch.tv/honeythekawaiibunny)|[@Honeythekawaiibunny](https://www.youtube.com/@Honeythekawaiibunny)|English|*FALSE*|
 |27|Shoomimi|[shoomimi](https://www.twitch.tv/shoomimi)|[@ShoomimiVODs](https://www.youtube.com/@ShoomimiVODs)|English|*FALSE*|
 |28|Toma|[toma](https://www.twitch.tv/toma)|[@sliceoftoma](https://www.youtube.com/@sliceoftoma)|English|*FALSE*|
