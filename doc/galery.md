@@ -143,7 +143,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Ellie - Light](/assets/pictures/ellie-minibot-light.png)<br><br>
-*Light - Codebug<br>
+*Light - Codebug*<br>
 ![Ellie - Codebug](/assets/pictures/ellie-minibot-codebug.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
