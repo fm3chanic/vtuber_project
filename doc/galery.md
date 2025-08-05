@@ -143,7 +143,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Ellie - Light](/assets/pictures/ellie-minibot-light.png)<br><br>
-*Dark*<br>
+*Light - Codebug<br>
 ![Ellie - Codebug](/assets/pictures/ellie-minibot-codebug.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
@@ -152,7 +152,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 *Light*<br>
 ![PorcelainMaid - Light](/assets/pictures/porcelainmaid-light.png)<br><br>
 *Dark*<br>
-![PorcelainMaid - Codebug](/assets/pictures/porcelainmaid-codebug.png)<br><br>
+![PorcelainMaid - Codebug](/assets/pictures/porcelainmaid-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
