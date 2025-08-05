@@ -11,7 +11,7 @@ The project will be documented on [Youtube](https://www.youtube.com/@fm3chanic).
 ## Planning & Release Schedule
 
 My plan is to follow a biweekly release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so always before I publish videos about them.<br>
-The goal is to cover all creators mentioned on the list in no specific order. The list is extended based on the comments I receive on my videos. I'll stop extending when I feel it makes sense to finish with this project.
+The goal is to cover all creators mentioned on the list in no specific order.
 
 ## Background
 
