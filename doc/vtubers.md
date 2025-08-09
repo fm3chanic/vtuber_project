@@ -36,7 +36,7 @@ This list contains all content creators I want to cover or which have been cover
 |26|Honey|[honeythekawaiibunny](https://www.twitch.tv/honeythekawaiibunny)|[@Honeythekawaiibunny](https://www.youtube.com/@Honeythekawaiibunny)|English|*FALSE*|
 |27|Shoomimi|[shoomimi](https://www.twitch.tv/shoomimi)|[@ShoomimiVODs](https://www.youtube.com/@ShoomimiVODs)|English|*FALSE*|
 |28|Toma|[toma](https://www.twitch.tv/toma)|[@sliceoftoma](https://www.youtube.com/@sliceoftoma)|English|*FALSE*|
-|29|Rose|[rosedoodle](https://www.twitch.tv/rosedoodle)|[@rosedoodle](https://www.youtube.com/@rosedoodle)|English|*FALSE*|
+|29|Rose|[rosedoodle](https://www.twitch.tv/rosedoodle)|[@rosedoodle](https://www.youtube.com/@rosedoodle)|English|**TRUE**|
 |30|Anny|[anny](https://www.twitch.tv/anny)|[@annytf](https://www.youtube.com/@annytf)|English|*FALSE*|
 |31|MichiMochievee|[michimochievee](https://www.twitch.tv/michimochievee)|[@MichiMochievee](https://www.youtube.com/@MichiMochievee)|English|*FALSE*|
 |32|Chibi|[chibidoki](https://www.twitch.tv/chibidoki)|[@chibidoki](https://www.youtube.com/@chibidoki)|English|*FALSE*|
