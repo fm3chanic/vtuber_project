@@ -10,7 +10,7 @@ The project will be partially documented on [Youtube](https://www.youtube.com/@f
 
 ## Planning & Release Schedule
 
-My plan is to follow a biweekly release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so for the one which are covered on YouTube it's always before I would publish a video.<br>
+My plan is to follow at least a two week release cycle, when my private schedule allows it of course. Themes will be published directly after creation and testing, so for the ones which are covered on YouTube it's always before I would publish a video.<br>
 The goal is to cover all creators mentioned on the list in no specific order.
 
 ## Background
@@ -20,3 +20,4 @@ I haven't figured out yet how to edit code just by willpower, so unfortunately I
 I don't know how you feel, but I can't use the same theme for months, at a certain point I need a change. The number of maintained themes for Notepad++ is unfortunately not that high. So I decided one day, I am building my own theme. The result was a theme based on an anime character (Sakura Haruno from Naruto). This was basically the day where the idea for this project was born.<br>
 
 When a theme based on an anime character is possible, then a theme based on a Vtuber would also be possible! So why not creating a theme based on a Vtuber? But which one? At his point I had already more than 10 content creators in mind, so instead of trying to choose one of them I made a project out of it.
+
