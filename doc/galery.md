@@ -27,6 +27,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Ironmouse|[Link](#ironmouse)|
 |Ellie|[Link](#ellie)|
 |PorcelainMaid|[Link](#porcelainmaid)|
+|Rosedoodle|[Link](#rosedoodle)|
 
 ### Vedal987
 
@@ -148,11 +149,21 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 
 ### PorcelainMaid
+
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![PorcelainMaid - Light](/assets/pictures/porcelainmaid-light.png)<br><br>
 *Dark*<br>
 ![PorcelainMaid - Codebug](/assets/pictures/porcelainmaid-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Rosedoodle
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Rosedoodle - Light](/assets/pictures/rosedoodle-light.png)<br><br>
+*Dark*<br>
+![Rosedoodle - Codebug](/assets/pictures/rosedoodle-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
