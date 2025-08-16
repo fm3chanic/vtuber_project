@@ -28,6 +28,9 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Ellie|[Link](#ellie)|
 |PorcelainMaid|[Link](#porcelainmaid)|
 |Rosedoodle|[Link](#rosedoodle)|
+|Filian|[Link](#filian)|
+|Layna|[Link](#layna)|
+|Laphipi|[Link](#laphipi)|
 
 ### Vedal987
 
@@ -154,7 +157,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 *Light*<br>
 ![PorcelainMaid - Light](/assets/pictures/porcelainmaid-light.png)<br><br>
 *Dark*<br>
-![PorcelainMaid - Codebug](/assets/pictures/porcelainmaid-dark.png)<br><br>
+![PorcelainMaid - Dark](/assets/pictures/porcelainmaid-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 ### Rosedoodle
@@ -163,7 +166,30 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 *Light*<br>
 ![Rosedoodle - Light](/assets/pictures/rosedoodle-light.png)<br><br>
 *Dark*<br>
-![Rosedoodle - Codebug](/assets/pictures/rosedoodle-dark.png)<br><br>
+![Rosedoodle - Dark](/assets/pictures/rosedoodle-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Filian
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Filian - Light](/assets/pictures/filian-light.png)<br><br>
+*Dark*<br>
+![Filian - Dark](/assets/pictures/filian-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Layna
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Layna - Dark](/assets/pictures/layna-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Laphipi
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Laphipi - Dark](/assets/pictures/laphipi-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**

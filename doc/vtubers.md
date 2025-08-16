@@ -10,15 +10,15 @@ This list contains all content creators I want to cover or which have been cover
 |---:|:---|:---|:---|:---|:---:|
 |1|Vedal|[vedal987](https://www.twitch.tv/vedal987)|[@Neurosama](https://www.youtube.com/@Neurosama)|English|**TRUE**|
 |2|Shylily|[Shylily](https://www.twitch.tv/Shylily)|[@Shylily](https://www.youtube.com/@Shylily)|English|**TRUE**|
-|3|Filian|[filian](https://www.twitch.tv/filian)|[@filianIsLost](https://www.youtube.com/@filianIsLost)|English|*FALSE*|
-|4|Layna|[LaynaLazar](https://www.twitch.tv/LaynaLazar)|[@LaynaLazar](https://www.youtube.com/@LaynaLazar)|English|*FALSE*|
+|3|Filian|[filian](https://www.twitch.tv/filian)|[@filianIsLost](https://www.youtube.com/@filianIsLost)|English|**TRUE**|
+|4|Layna|[LaynaLazar](https://www.twitch.tv/LaynaLazar)|[@LaynaLazar](https://www.youtube.com/@LaynaLazar)|English|**TRUE**|
 |5|Aquwa|[aquwa](https://www.twitch.tv/aquwa)|[@Aquwa_VT](https://www.youtube.com/@Aquwa_VT)|English|**TRUE**|
 |6|Jinja|[jinja](https://www.twitch.tv/jinja)|[@JinjaOwO](https://www.youtube.com/@JinjaOwO)|German|*FALSE*|
 |7|ironmouse|[ironmouse](https://www.twitch.tv/ironmouse)|[@IronMouseParty](https://www.youtube.com/@IronMouseParty)|English|**TRUE**|
 |8|Lunywoo|[lunywoo](https://www.twitch.tv/lunywoo)|[@Lunywoo](https://www.youtube.com/@Lunywoo)|German|**TRUE**|
 |9|Asche|[asche](https://www.twitch.tv/asche)|[@aschekunst](https://www.youtube.com/@aschekunst)|German|**TRUE**|
 |10|Finstey|[finstey](https://www.twitch.tv/finstey)|[@finstey](https://www.youtube.com/@finstey)|German|*FALSE*|
-|11|Laphipi|[laphipi](https://www.twitch.tv/laphipi)|[@Laphipi](https://www.youtube.com/@Laphipi)|English|*FALSE*|
+|11|Laphipi|[laphipi](https://www.twitch.tv/laphipi)|[@Laphipi](https://www.youtube.com/@Laphipi)|English|**TRUE**|
 |12|Nayami|[Nayami](https://www.twitch.tv/Nayami)|[@NayamiPeachfox](https://www.youtube.com/@NayamiPeachfox)|German|**TRUE**|
 |13|EveryLunaEver|[EveryLunaEver](https://www.twitch.tv/EveryLunaEver)|[@EveryLunaEver](https://www.youtube.com/@EveryLunaEver)|German|*FALSE*|
 |14|Saruei|[Saruei](https://www.twitch.tv/Saruei)|[@Saruei](https://www.youtube.com/@Saruei)|English|*FALSE*|
@@ -54,5 +54,6 @@ This list contains all content creators I want to cover or which have been cover
 |44|EineLotta|[EineLotta](https://www.twitch.tv/einelotta)|[@EineLotta](https://www.youtube.com/@EineLotta)|German/English|*FALSE*|
 |45|maakurika|[maakurika](https://www.twitch.tv/maakurika)|[@maakurika](https://www.youtube.com/@maakurika)|German|*FALSE*|
 |46|Rekson|[ReksonGames](https://www.twitch.tv/ReksonGames)|[@ReksonGames](https://www.youtube.com/@ReksonGames)|English|*FALSE*|
+|47|Mona Euphelia|[MonaEuphelia](https://www.twitch.tv/monaeuphelia)|[@MonaEuphelia](https://www.youtube.com/@MonaEuphelia)|English|*FALSE*|
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
