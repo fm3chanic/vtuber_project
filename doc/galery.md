@@ -189,7 +189,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
-![Laphipi - Dark](/assets/pictures/laphipi-dark.png)<br><br>
+![Laphipi - light](/assets/pictures/laphipi-light.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
