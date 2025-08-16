@@ -51,10 +51,8 @@ This list contains all content creators I want to cover or which have been cover
 |41|Dokibird|[dokibird](https://www.twitch.tv/dokibird)|[@Dokibird](https://www.youtube.com/@Dokibird)|English|*FALSE*|
 |42|Nanoless|[Nanoless](https://www.twitch.tv/nanoless)|[@Nanoless](https://www.youtube.com/@Nanoless)|English|*FALSE*|
 |43|Zentreya|[Zentreya](https://www.twitch.tv/zentreya)|[@Zentreya](https://www.youtube.com/@Zentreya)|English|*FALSE*|
-|44|Fuwamoco||[@FUWAMOCOch](https://www.youtube.com/@FUWAMOCOch)|English|*FALSE*|
-|45|Gigi Murin||[@holoen_gigimurin](https://www.youtube.com/@holoen_gigimurin)|English|*FALSE*|
-|46|EineLotta|[EineLotta](https://www.twitch.tv/einelotta)|[@EineLotta](https://www.youtube.com/@EineLotta)|German/English|*FALSE*|
-|47|maakurika|[maakurika](https://www.twitch.tv/maakurika)|[@maakurika](https://www.youtube.com/@maakurika)|German|*FALSE*|
-|48|Rekson|[ReksonGames](https://www.twitch.tv/ReksonGames)|[@ReksonGames](https://www.youtube.com/@ReksonGames)|English|*FALSE*|
+|44|EineLotta|[EineLotta](https://www.twitch.tv/einelotta)|[@EineLotta](https://www.youtube.com/@EineLotta)|German/English|*FALSE*|
+|45|maakurika|[maakurika](https://www.twitch.tv/maakurika)|[@maakurika](https://www.youtube.com/@maakurika)|German|*FALSE*|
+|46|Rekson|[ReksonGames](https://www.twitch.tv/ReksonGames)|[@ReksonGames](https://www.youtube.com/@ReksonGames)|English|*FALSE*|
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
