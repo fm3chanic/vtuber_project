@@ -13,7 +13,7 @@ This list contains all content creators I want to cover or which have been cover
 |3|Filian|[filian](https://www.twitch.tv/filian)|[@filianIsLost](https://www.youtube.com/@filianIsLost)|English|**TRUE**|
 |4|Layna|[LaynaLazar](https://www.twitch.tv/LaynaLazar)|[@LaynaLazar](https://www.youtube.com/@LaynaLazar)|English|**TRUE**|
 |5|Aquwa|[aquwa](https://www.twitch.tv/aquwa)|[@Aquwa_VT](https://www.youtube.com/@Aquwa_VT)|English|**TRUE**|
-|6|Jinja|[jinja](https://www.twitch.tv/jinja)|[@JinjaOwO](https://www.youtube.com/@JinjaOwO)|German|*FALSE*|
+|6|Jinja|[jinja](https://www.twitch.tv/jinja)|[@JinjaOwO](https://www.youtube.com/@JinjaOwO)|German|**TRUE**|
 |7|ironmouse|[ironmouse](https://www.twitch.tv/ironmouse)|[@IronMouseParty](https://www.youtube.com/@IronMouseParty)|English|**TRUE**|
 |8|Lunywoo|[lunywoo](https://www.twitch.tv/lunywoo)|[@Lunywoo](https://www.youtube.com/@Lunywoo)|German|**TRUE**|
 |9|Asche|[asche](https://www.twitch.tv/asche)|[@aschekunst](https://www.youtube.com/@aschekunst)|German|**TRUE**|
@@ -24,7 +24,7 @@ This list contains all content creators I want to cover or which have been cover
 |14|Saruei|[Saruei](https://www.twitch.tv/Saruei)|[@Saruei](https://www.youtube.com/@Saruei)|English|*FALSE*|
 |15|Numi|[nihmune](https://www.twitch.tv/nihmune)|[@AkumaNihmune](https://www.youtube.com/@AkumaNihmune)|English|*FALSE*|
 |16|Lucy|[lucypyre](https://www.twitch.tv/lucypyre)|[@LucyPyre](https://www.youtube.com/@LucyPyre)|English|*FALSE*|
-|17|Cerber|[cerbervt](https://www.twitch.tv/cerbervt)|[@cerberVT](https://www.youtube.com/@cerberVT)|English|*FALSE*|
+|17|Cerber|[cerbervt](https://www.twitch.tv/cerbervt)|[@cerberVT](https://www.youtube.com/@cerberVT)|English|**TRUE**|
 |18|Mini|[minikomew](https://www.twitch.tv/minikomew)|[@MinikoMew](https://www.youtube.com/@MinikoMew)|English|*FALSE*|
 |19|Bao|[bao](https://www.twitch.tv/bao)|[@baovtuber](https://www.youtube.com/@baovtuber)|English|*FALSE*|
 |20|Milk|[cweamcat](https://www.twitch.tv/cweamcat)|[@CweamcatCh](https://www.youtube.com/@CweamcatCh)|English|*FALSE*|
@@ -40,7 +40,7 @@ This list contains all content creators I want to cover or which have been cover
 |30|Anny|[anny](https://www.twitch.tv/anny)|[@annytf](https://www.youtube.com/@annytf)|English|*FALSE*|
 |31|MichiMochievee|[michimochievee](https://www.twitch.tv/michimochievee)|[@MichiMochievee](https://www.youtube.com/@MichiMochievee)|English|*FALSE*|
 |32|Chibi|[chibidoki](https://www.twitch.tv/chibidoki)|[@chibidoki](https://www.youtube.com/@chibidoki)|English|*FALSE*|
-|33|Deme|[deme](https://www.twitch.tv/deme)|[@demeVT](https://www.youtube.com/@demeVT)|English|*FALSE*|
+|33|Deme|[deme](https://www.twitch.tv/deme)|[@demeVT](https://www.youtube.com/@demeVT)|English|**TRUE**|
 |34|Spite|[Spite](https://www.twitch.tv/Spite)|[@SpiteVtuber](https://www.youtube.com/@SpiteVtuber)|English|**TRUE**|
 |35|Buff|[Buffpup](https://www.twitch.tv/Buffpup)|[@Buffpup](https://www.youtube.com/@Buffpup)|English|*FALSE*|
 |36|SquChan|[SquChan](https://www.twitch.tv/SquChan)|[@SquChanTwitchVODs](https://www.youtube.com/@SquChanTwitchVODs)|English|*FALSE*|
@@ -50,7 +50,7 @@ This list contains all content creators I want to cover or which have been cover
 |40|Porcelainmaid|[PorcelainMaid](https://www.twitch.tv/porcelainmaid)|[@PorcelainMaid](https://www.youtube.com/@PorcelainMaid)|English|**TRUE**|
 |41|Dokibird|[dokibird](https://www.twitch.tv/dokibird)|[@Dokibird](https://www.youtube.com/@Dokibird)|English|*FALSE*|
 |42|Nanoless|[Nanoless](https://www.twitch.tv/nanoless)|[@Nanoless](https://www.youtube.com/@Nanoless)|English|*FALSE*|
-|43|Zentreya|[Zentreya](https://www.twitch.tv/zentreya)|[@Zentreya](https://www.youtube.com/@Zentreya)|English|*FALSE*|
+|43|Zentreya|[Zentreya](https://www.twitch.tv/zentreya)|[@Zentreya](https://www.youtube.com/@Zentreya)|English|**TRUE**|
 |44|EineLotta|[EineLotta](https://www.twitch.tv/einelotta)|[@EineLotta](https://www.youtube.com/@EineLotta)|German/English|*FALSE*|
 |45|maakurika|[maakurika](https://www.twitch.tv/maakurika)|[@maakurika](https://www.youtube.com/@maakurika)|German|*FALSE*|
 |46|Rekson|[ReksonGames](https://www.twitch.tv/ReksonGames)|[@ReksonGames](https://www.youtube.com/@ReksonGames)|English|*FALSE*|

@@ -31,6 +31,10 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Filian|[Link](#filian)|
 |Layna|[Link](#layna)|
 |Laphipi|[Link](#laphipi)|
+|Cerber|[Link](#cerber)|
+|Jinja|[Link](#jinja)|
+|Deme|[Link](#deme)|
+|Zentraya|[Link](#zentraya)|
 
 ### Vedal987
 
@@ -190,6 +194,42 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Laphipi - light](/assets/pictures/laphipi-light.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Cerber
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Cerber - Light](/assets/pictures/cerber-light.png)<br><br>
+*Dark*<br>
+![Cerber - Dark](/assets/pictures/cerber-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Jinja
+
+**[Back to Top](#creators)**<br><br>
+*Dark - Gold*<br>
+![Jinja - Gold](/assets/pictures/jinja-dark-gold.png)<br><br>
+*Dark - Red*<br>
+![Jinja - Red](/assets/pictures/jinja-dark-red.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Deme
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Deme - Light](/assets/pictures/deme-light.png)<br><br>
+*Dark*<br>
+![Deme - Dark](/assets/pictures/deme-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Zentraya
+
+**[Back to Top](#creators)**<br><br>
+*Dragon*<br>
+![Zentraya - Dragon](/assets/pictures/zentraya-dragon.png)<br><br>
+*Cyborg*<br>
+![Zentraya - Cyborg](/assets/pictures/zentraya-cyborg.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
