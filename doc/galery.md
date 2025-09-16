@@ -35,7 +35,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Jinja|[Link](#jinja)|
 |Deme|[Link](#deme)|
 |Zentraya|[Link](#zentraya)|
-|Mona Euphelia|[Link](#mona)|
+|Mona Euphelia|[Link](#mona-euphelia)|
 
 ### Vedal987
 
