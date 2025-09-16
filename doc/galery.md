@@ -35,6 +35,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Jinja|[Link](#jinja)|
 |Deme|[Link](#deme)|
 |Zentraya|[Link](#zentraya)|
+|Mona Euphelia|[Link](#monaeuphelia)|
 
 ### Vedal987
 
@@ -230,6 +231,15 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Zentraya - Dragon](/assets/pictures/zentraya-dragon.png)<br><br>
 *Cyborg*<br>
 ![Zentraya - Cyborg](/assets/pictures/zentraya-cyborg.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+### Mona Euphelia
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Mona - Light](/assets/pictures/mona-light.png)<br><br>
+*Dark*<br>
+![Mona - Dark](/assets/pictures/mona-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**

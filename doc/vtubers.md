@@ -54,6 +54,6 @@ This list contains all content creators I want to cover or which have been cover
 |44|EineLotta|[EineLotta](https://www.twitch.tv/einelotta)|[@EineLotta](https://www.youtube.com/@EineLotta)|German/English|*FALSE*|
 |45|maakurika|[maakurika](https://www.twitch.tv/maakurika)|[@maakurika](https://www.youtube.com/@maakurika)|German|*FALSE*|
 |46|Rekson|[ReksonGames](https://www.twitch.tv/ReksonGames)|[@ReksonGames](https://www.youtube.com/@ReksonGames)|English|*FALSE*|
-|47|Mona Euphelia|[MonaEuphelia](https://www.twitch.tv/monaeuphelia)|[@MonaEuphelia](https://www.youtube.com/@MonaEuphelia)|English|*FALSE*|
+|47|Mona Euphelia|[MonaEuphelia](https://www.twitch.tv/monaeuphelia)|[@MonaEuphelia](https://www.youtube.com/@MonaEuphelia)|English|**TRUE**|
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
