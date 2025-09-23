@@ -256,7 +256,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Mona - Dark](/assets/pictures/mona-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Bao
+### Bao
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
@@ -265,21 +265,21 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Bao - Dark](/assets/pictures/bao-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Buffpup
+### Buffpup
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Buffpup - light](/assets/pictures/buffpup.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Dokibird
+### Dokibird
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Dokibird - dark](/assets/pictures/dokibird.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###EveryLunaEver
+### EveryLunaEver
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
@@ -288,28 +288,28 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![EveryLunaEver - Dark](/assets/pictures/everlunaever-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Finstey
+### Finstey
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Finstey - dark](/assets/pictures/finstey.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Kokonuts
+### Kokonuts
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Kokonuts - light](/assets/pictures/kokonuts.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Maakurika
+### Maakurika
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Maakurika - dark](/assets/pictures/maakurika.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Megalodon
+### Megalodon
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
@@ -318,35 +318,35 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Megalodon - Dark](/assets/pictures/megalodon-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###MichiMochievee
+### MichiMochievee
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![MichiMochievee - dark](/assets/pictures/michimochievee.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Numi
+### Numi
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Numi - dark](/assets/pictures/numi.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Rekson
+### Rekson
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
 ![Rekson - dark](/assets/pictures/rekson.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Toma
+### Toma
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
 ![Toma - light](/assets/pictures/toma.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###Shoomimi
+### Shoomimi
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
