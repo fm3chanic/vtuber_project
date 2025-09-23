@@ -283,9 +283,9 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 
 **[Back to Top](#creators)**<br><br>
 *Light*<br>
-![EveryLunaEver - Light](/assets/pictures/everlunaever-light.png)<br><br>
+![EveryLunaEver - Light](/assets/pictures/everylunaever-light.png)<br><br>
 *Dark*<br>
-![EveryLunaEver - Dark](/assets/pictures/everlunaever-dark.png)<br><br>
+![EveryLunaEver - Dark](/assets/pictures/everylunaever-dark.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 ### Finstey
@@ -353,7 +353,7 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Shoomimi - dark](/assets/pictures/shoomimi.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
-###SquChan
+### SquChan
 
 **[Back to Top](#creators)**<br><br>
 *Dark*<br>
