@@ -36,6 +36,20 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 |Deme|[Link](#deme)|
 |Zentraya|[Link](#zentraya)|
 |Mona Euphelia|[Link](#mona-euphelia)|
+|Bao|[Link](#bao)|
+|Buffpup|[Link](#buffpup)|
+|Dokibird|[Link](#dokibird)|
+|EveryLunaEver|[Link](#everylunaever)|
+|Finstey|[Link](#finstey)|
+|Koko|[Link](#kokonuts)|
+|Maakurika|[Link](#maakurika)|
+|Megalodon|[Link](#megalodon)|
+|MichiMochievee|[Link](#michimochievee)|
+|Numi|[Link](#numi)|
+|Rekson|[Link](#rekson)|
+|Toma|[Link](#toma)|
+|Shoomimi|[Link](#shoomimi)|
+|SquChan|[Link](#squchan)|
 
 ### Vedal987
 
@@ -240,6 +254,110 @@ Click on the link in the "Pictures" column to get to the pictures. Use the "Back
 ![Mona - Light](/assets/pictures/mona-light.png)<br><br>
 *Dark*<br>
 ![Mona - Dark](/assets/pictures/mona-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Bao
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Bao - Light](/assets/pictures/bao-light.png)<br><br>
+*Dark*<br>
+![Bao - Dark](/assets/pictures/bao-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Buffpup
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Buffpup - light](/assets/pictures/buffpup.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Dokibird
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Dokibird - dark](/assets/pictures/dokibird.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###EveryLunaEver
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![EveryLunaEver - Light](/assets/pictures/everlunaever-light.png)<br><br>
+*Dark*<br>
+![EveryLunaEver - Dark](/assets/pictures/everlunaever-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Finstey
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Finstey - dark](/assets/pictures/finstey.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Kokonuts
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Kokonuts - light](/assets/pictures/kokonuts.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Maakurika
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Maakurika - dark](/assets/pictures/maakurika.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Megalodon
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Megalodon - Light](/assets/pictures/megalodon-light.png)<br><br>
+*Dark*<br>
+![Megalodon - Dark](/assets/pictures/megalodon-dark.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###MichiMochievee
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![MichiMochievee - dark](/assets/pictures/michimochievee.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Numi
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Numi - dark](/assets/pictures/numi.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Rekson
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Rekson - dark](/assets/pictures/rekson.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Toma
+
+**[Back to Top](#creators)**<br><br>
+*Light*<br>
+![Toma - light](/assets/pictures/toma.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###Shoomimi
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![Shoomimi - dark](/assets/pictures/shoomimi.png)<br><br>
+**[Back to Top](#creators)**<br><br>
+
+###SquChan
+
+**[Back to Top](#creators)**<br><br>
+*Dark*<br>
+![SquChan - dark](/assets/pictures/squchan.png)<br><br>
 **[Back to Top](#creators)**<br><br>
 
 **[Back](https://github.com/fm3chanic/vtuber_project)**
